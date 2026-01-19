@@ -1,0 +1,40 @@
+{
+  "theme": "cyberpunk cityscape",
+  "enhancedPrompt": "\"In the year 2090, the neon-drenched metropolis of Neo-Eden sprawls across the ruins of a once-great city, its towering skyscrapers and cramped alleyways a testament to human ingenuity and resilience. Amidst the labyrinthine streets, holographic advertisements and flickering streetlights cast a kaleidoscope of colors, as towering mechs and sleek flying cars zip past, leaving trails of smoke and fire in their wake. In the heart of the city, the iconic Arcadia Tower pierces the smog-choked sky, its mirrored surface reflecting the chaotic beauty of the urban jungle below, where humans and artificial intelligences coexist in a delicate balance of power and rebellion.\"",
+  "totalCost": 0.006999999999999999,
+  "results": [
+    {
+      "params": {
+        "model": "stability-ai/sdxl:7762fd07cf82c948538e41f63f77d685e02b063e37e496e96eefd46c929f9bdc",
+        "size": "1024x1024",
+        "prompt": "\"In the year 2090, the neon-drenched metropolis of Neo-Eden sprawls across the ruins of a once-great city, its towering skyscrapers and cramped alleyways a testament to human ingenuity and resilience. Amidst the labyrinthine streets, holographic advertisements and flickering streetlights cast a kaleidoscope of colors, as towering mechs and sleek flying cars zip past, leaving trails of smoke and fire in their wake. In the heart of the city, the iconic Arcadia Tower pierces the smog-choked sky, its mirrored surface reflecting the chaotic beauty of the urban jungle below, where humans and artificial intelligences coexist in a delicate balance of power and rebellion.\""
+      },
+      "cost": 0.0023,
+      "success": true,
+      "filename": "images/cyberpunk_cityscape-1024x1024-1768830271635.png",
+      "revised_prompt": "\"In the year 2090, the neon-drenched metropolis of Neo-Eden sprawls across the ruins of a once-great city, its towering skyscrapers and cramped alleyways a testament to human ingenuity and resilience. Amidst the labyrinthine streets, holographic advertisements and flickering streetlights cast a kaleidoscope of colors, as towering mechs and sleek flying cars zip past, leaving trails of smoke and fire in their wake. In the heart of the city, the iconic Arcadia Tower pierces the smog-choked sky, its mirrored surface reflecting the chaotic beauty of the urban jungle below, where humans and artificial intelligences coexist in a delicate balance of power and rebellion.\""
+    },
+    {
+      "params": {
+        "model": "stability-ai/sdxl:7762fd07cf82c948538e41f63f77d685e02b063e37e496e96eefd46c929f9bdc",
+        "size": "1280x720",
+        "prompt": "\"In the year 2090, the neon-drenched metropolis of Neo-Eden sprawls across the ruins of a once-great city, its towering skyscrapers and cramped alleyways a testament to human ingenuity and resilience. Amidst the labyrinthine streets, holographic advertisements and flickering streetlights cast a kaleidoscope of colors, as towering mechs and sleek flying cars zip past, leaving trails of smoke and fire in their wake. In the heart of the city, the iconic Arcadia Tower pierces the smog-choked sky, its mirrored surface reflecting the chaotic beauty of the urban jungle below, where humans and artificial intelligences coexist in a delicate balance of power and rebellion.\""
+      },
+      "cost": 0.0023,
+      "success": true,
+      "filename": "images/cyberpunk_cityscape-1280x720-1768830299027.png",
+      "revised_prompt": "\"In the year 2090, the neon-drenched metropolis of Neo-Eden sprawls across the ruins of a once-great city, its towering skyscrapers and cramped alleyways a testament to human ingenuity and resilience. Amidst the labyrinthine streets, holographic advertisements and flickering streetlights cast a kaleidoscope of colors, as towering mechs and sleek flying cars zip past, leaving trails of smoke and fire in their wake. In the heart of the city, the iconic Arcadia Tower pierces the smog-choked sky, its mirrored surface reflecting the chaotic beauty of the urban jungle below, where humans and artificial intelligences coexist in a delicate balance of power and rebellion.\""
+    },
+    {
+      "params": {
+        "model": "stability-ai/sdxl:7762fd07cf82c948538e41f63f77d685e02b063e37e496e96eefd46c929f9bdc",
+        "size": "720x1280",
+        "prompt": "\"In the year 2090, the neon-drenched metropolis of Neo-Eden sprawls across the ruins of a once-great city, its towering skyscrapers and cramped alleyways a testament to human ingenuity and resilience. Amidst the labyrinthine streets, holographic advertisements and flickering streetlights cast a kaleidoscope of colors, as towering mechs and sleek flying cars zip past, leaving trails of smoke and fire in their wake. In the heart of the city, the iconic Arcadia Tower pierces the smog-choked sky, its mirrored surface reflecting the chaotic beauty of the urban jungle below, where humans and artificial intelligences coexist in a delicate balance of power and rebellion.\""
+      },
+      "cost": 0.0023,
+      "success": true,
+      "filename": "images/cyberpunk_cityscape-720x1280-1768830324711.png",
+      "revised_prompt": "\"In the year 2090, the neon-drenched metropolis of Neo-Eden sprawls across the ruins of a once-great city, its towering skyscrapers and cramped alleyways a testament to human ingenuity and resilience. Amidst the labyrinthine streets, holographic advertisements and flickering streetlights cast a kaleidoscope of colors, as towering mechs and sleek flying cars zip past, leaving trails of smoke and fire in their wake. In the heart of the city, the iconic Arcadia Tower pierces the smog-choked sky, its mirrored surface reflecting the chaotic beauty of the urban jungle below, where humans and artificial intelligences coexist in a delicate balance of power and rebellion.\""
+    }
+  ]
+}
