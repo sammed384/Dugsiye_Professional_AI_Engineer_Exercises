@@ -1,13 +1,5 @@
 # Exercise 3: Text-to-Speech with Replicate
 
-This exercise demonstrates how to use the Replicate API to generate high-quality speech from text using the **Coqui XTTS-v2** model.
-
-## Features
-
-- **Multi-voice Conversation**: A dialogue between two characters (Alex and Sam).
-- **Emotional Range**: Demonstrates various emotional tones through dialogue (excited, nervous, grateful, etc.).
-- **Automated Generation**: Script automatically generates and saves each line as a separate `.wav` file.
-
 ## Conversation Audio
 
 Listen to the generated conversation below:
@@ -43,15 +35,3 @@ Listen to the generated conversation below:
 ### 8. Sam (Laughing)
 
 <audio src="./assets/08_sam_laughing.wav" controls></audio>
-
-## How to Run
-
-1. Ensure you have your `REPLICATE_API_TOKEN` in the `.env` file.
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-3. Run the script:
-   ```bash
-   npm start
-   ```
