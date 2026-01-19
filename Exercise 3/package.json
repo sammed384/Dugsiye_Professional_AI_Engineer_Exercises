@@ -1,7 +1,7 @@
 {
-  "name": "open-ai",
+  "name": "exercise-3",
   "version": "1.0.0",
-  "description": "",
+  "description": "Text-to-Speech using Replicate",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "dotenv": "^17.2.3",
-    "replicate": "^1.4.0"
+    "dotenv": "^16.4.5",
+    "replicate": "^0.25.2"
   }
 }
