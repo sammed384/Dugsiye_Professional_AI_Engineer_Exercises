@@ -4,5 +4,5 @@ This repository contains 8 Professional AI Engineer Exercises designed to improv
 
 ## Exercises list
 
-1. [Exercise 1](https://github.com/sammed384/Dugsiye_Professional_AI_Engineer_Exercises/tree/main/Exercise_1)
-2. [Exercise 2](https://github.com/sammed384/Dugsiye_Professional_AI_Engineer_Exercises/tree/main/Exercise_2)
+1. [Exercise 1](https://github.com/sammed384/Dugsiye_Professional_AI_Engineer_Exercises/tree/main/Exercise%201)
+2. [Exercise 2](https://github.com/sammed384/Dugsiye_Professional_AI_Engineer_Exercises/tree/main/Exercise%202)
