@@ -1,0 +1,19 @@
+{
+  "name": "exercise-4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "archiver": "^7.0.1",
+    "dotenv": "^17.2.3",
+    "openai": "^6.16.0",
+    "replicate": "^1.4.0"
+  }
+}
